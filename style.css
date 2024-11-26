@@ -1,0 +1,17 @@
+html, body {
+    margin-left: 10px; 
+    margin-right: 14px;
+    background: black;
+  }
+  canvas {
+    display: block;
+    filter: drop-shadow(1px 1px 20px rgb(90,10,255));
+    border-radius: 15px;
+  }
+  
+  p{
+    text-align: center;
+    font-weight: bold;
+    background: green;
+  }
+  
